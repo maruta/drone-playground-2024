@@ -2,7 +2,7 @@
 
 Simple Drone Simulator for Educational Purposes Based on Babylon.js
 
-** This repository is archived fork of https://github.com/maruta/drone-playground **
+**This repository is archived fork of https://github.com/maruta/drone-playground**
 
 This simulator was created as a simplified alternative to the [AirSim](https://github.com/microsoft/AirSim/) based simulator previously used in classes.
 Only the parts related to horizontal movements, which the author uses in lectures, have been adjusted. Please do not expect too much.
